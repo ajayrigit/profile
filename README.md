@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-- 🌱 I’m currently learning **nodejs Reactjs mongodb**
+- 🌱  currently Iam a fresher **
 
-- 💬 Ask me about **nodejs expressjs mongodb APIKEY**
+- 💬 Ask me about ** reactj.s nodejs expressjs mongodb APIKEY**
 
 - 📫 How to reach me **ajayarun2762002@gmail.com**
 
